@@ -1,13 +1,12 @@
 # assign1git
-William McWhorter
 
+William McWhorter
 
 First comment!!
 
 This should change the new branch
 
-
 testbranch change
 
-
 edited from windows laptop
+edited from macbook
